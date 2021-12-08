@@ -8,13 +8,16 @@
 		<Item Name="HTTP_GET_Test_Arduino_AddData.vi" Type="VI" URL="../private/HTTP_GET_Test_Arduino_AddData.vi"/>
 		<Item Name="HTTP_GET_Test_Arduino_GetData.vi" Type="VI" URL="../private/HTTP_GET_Test_Arduino_GetData.vi"/>
 		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="../private/HTTP_GET_Test_RemoveOneUserData.vi"/>
+		<Item Name="IDCheck.vi" Type="VI" URL="../private/IDCheck.vi"/>
 	</Item>
 	<Item Name="ConfAcqType.vi" Type="VI" URL="../ConfAcqType.vi"/>
 	<Item Name="ConfChannel.vi" Type="VI" URL="../ConfChannel.vi"/>
 	<Item Name="ConfTimebase.vi" Type="VI" URL="../ConfTimebase.vi"/>
 	<Item Name="ConfTimeMode.vi" Type="VI" URL="../ConfTimeMode.vi"/>
 	<Item Name="ConfTrigger.vi" Type="VI" URL="../ConfTrigger.vi"/>
-	<Item Name="IDCheck.vi" Type="VI" URL="../IDCheck.vi"/>
+	<Item Name="ConfTriggerSweep.vi" Type="VI" URL="../ConfTriggerSweep.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+	<Item Name="OscDecode.vi" Type="VI" URL="../OscDecode.vi"/>
+	<Item Name="ReadWF.vi" Type="VI" URL="../ReadWF.vi"/>
 	<Item Name="SendComands.vi" Type="VI" URL="../SendComands.vi"/>
 </Library>
