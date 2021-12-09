@@ -9,6 +9,7 @@
 		<Item Name="HTTP_GET_Test_Arduino_GetData.vi" Type="VI" URL="../private/HTTP_GET_Test_Arduino_GetData.vi"/>
 		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="../private/HTTP_GET_Test_RemoveOneUserData.vi"/>
 		<Item Name="IDCheck.vi" Type="VI" URL="../private/IDCheck.vi"/>
+		<Item Name="ParseInputStr.vi" Type="VI" URL="../private/ParseInputStr.vi"/>
 	</Item>
 	<Item Name="ConfAcqType.vi" Type="VI" URL="../ConfAcqType.vi"/>
 	<Item Name="ConfChannel.vi" Type="VI" URL="../ConfChannel.vi"/>
