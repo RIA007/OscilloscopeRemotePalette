@@ -19,6 +19,7 @@
 	<Item Name="ConfTriggerSweep.vi" Type="VI" URL="../ConfTriggerSweep.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 	<Item Name="OscDecode.vi" Type="VI" URL="../OscDecode.vi"/>
+	<Item Name="OscISN.vi" Type="VI" URL="../OscISN.vi"/>
 	<Item Name="ReadWF.vi" Type="VI" URL="../ReadWF.vi"/>
 	<Item Name="SendComands.vi" Type="VI" URL="../SendComands.vi"/>
 </Library>
